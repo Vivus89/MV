@@ -1,0 +1,66 @@
+.entete{
+  background-color:#061339;
+  color: #fff;
+  height:30px;
+}
+
+p{
+  margin:5px auto;
+}
+.fond{
+  background: url('img/background.jpg');
+  height: 200px;
+}
+.container{
+  height: 2000px;
+}
+.titre{
+  display: inline-block;
+  text-align: center;
+  line-height: 200px;
+color: #fff;
+font-size: 3rem;
+font-style: italic;
+
+}
+
+.fond2{
+  background-color: #F1F1F1;
+  heigth: 1000px;
+}
+
+.adoption{
+  color:#484E90;
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: center;
+}
+.btn-primary{
+  background: green;
+}
+
+.fond3{
+  background-color:#DDD;
+}
+
+.noschats{
+  color:#2F4073;
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+}
+.icone{
+  background-color:#7885A5;
+}
+img{
+  width:100%;
+}
+div.col-md-3.icone{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+.error {
+	border: 5px solid red;
+}

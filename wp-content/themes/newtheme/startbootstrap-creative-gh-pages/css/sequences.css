@@ -1,0 +1,16 @@
+#chart {
+  text-align: center;
+}
+path {
+  stroke: #fff;
+}
+
+h1, h4 {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+.tooltip {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
